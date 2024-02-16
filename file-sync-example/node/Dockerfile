@@ -1,4 +1,4 @@
-FROM node:18.3-alpine
+FROM node:18.19.0-alpine
 
 USER node
 RUN mkdir /home/node/app
